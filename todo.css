@@ -1,0 +1,19 @@
+/* .todoList{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+} */
+
+input{
+    font-size: 20px;
+}
+
+li{
+    font-size: 20px;
+}
+.cross{
+    font-size: 15px !important;
+    cursor: pointer;
+    color: #f00;
+}
